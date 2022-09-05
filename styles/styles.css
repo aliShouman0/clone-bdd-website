@@ -336,6 +336,7 @@
 
 .join {
   height: 100vh;
+  margin-bottom: 10rem;
 }
 
 .join-tile {
@@ -431,4 +432,27 @@
   width: 10%;
   height: 10%;
   margin: 0.5rem;
+}
+
+
+/* 5th scetion PREFERRED */
+
+.hub{
+  width: 100vw;
+  height: 60vh;
+  margin: 8rem 0;
+  background: url("../images/parallax-light.jpg ");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: rgb(0, 0, 0);
+
+}
+
+.hub > h3{
+  text-align: center;
+  padding: 2rem;
+  font-size: 2rem; 
+  font-weight: lighter;
+  letter-spacing: 2px;
 }
